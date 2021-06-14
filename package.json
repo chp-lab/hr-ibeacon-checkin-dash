@@ -1,0 +1,32 @@
+{
+  "name": "hr-ibeacon-checkin-dash",
+  "version": "1.0.0",
+  "description": "hr ibeacon chckin dashboard",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chp-lab/hr-ibeacon-checkin-dash.git"
+  },
+  "keywords": [
+    "OneChaat",
+    "iBeacon",
+    "hr",
+    "ibeacon",
+    "checkin",
+    "INET",
+    "GIANT"
+  ],
+  "author": "Chatpeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chp-lab/hr-ibeacon-checkin-dash/issues"
+  },
+  "homepage": "https://github.com/chp-lab/hr-ibeacon-checkin-dash#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
